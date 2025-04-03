@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_lab2", "TI_lab2\TI_lab2.csproj", "{18A1342A-1E3C-43D4-BB79-C46488FA8F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainLibrary", "MainLibrary\MainLibrary.csproj", "{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A1342A-1E3C-43D4-BB79-C46488FA8F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A1342A-1E3C-43D4-BB79-C46488FA8F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A1342A-1E3C-43D4-BB79-C46488FA8F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A1342A-1E3C-43D4-BB79-C46488FA8F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4704823C-E815-4D0E-82D9-C7F90D386D34}
+	EndGlobalSection
+EndGlobal

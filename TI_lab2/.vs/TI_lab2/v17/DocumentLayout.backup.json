@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\University\\TI\\lab2\\TI_lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A1342A-1E3C-43D4-BB79-C46488FA8F77}|TI_lab2\\TI_lab2.csproj|c:\\university\\ti\\lab2\\ti_lab2\\ti_lab2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A1342A-1E3C-43D4-BB79-C46488FA8F77}|TI_lab2\\TI_lab2.csproj|solutionrelative:ti_lab2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|c:\\university\\ti\\lab2\\ti_lab2\\mainlibrary\\stream_encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|solutionrelative:mainlibrary\\stream_encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|c:\\university\\ti\\lab2\\ti_lab2\\mainlibrary\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|solutionrelative:mainlibrary\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|c:\\university\\ti\\lab2\\ti_lab2\\mainlibrary\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|solutionrelative:mainlibrary\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|c:\\university\\ti\\lab2\\ti_lab2\\mainlibrary\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3E8F6F-C1BA-4C34-B30D-15D6B903E30E}|MainLibrary\\MainLibrary.csproj|solutionrelative:mainlibrary\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A1342A-1E3C-43D4-BB79-C46488FA8F77}|TI_lab2\\TI_lab2.csproj|c:\\university\\ti\\lab2\\ti_lab2\\ti_lab2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A1342A-1E3C-43D4-BB79-C46488FA8F77}|TI_lab2\\TI_lab2.csproj|solutionrelative:ti_lab2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Convert.cs",
+              "DocumentMoniker": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Convert.cs",
+              "RelativeDocumentMoniker": "MainLibrary\\Convert.cs",
+              "ToolTip": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Convert.cs",
+              "RelativeToolTip": "MainLibrary\\Convert.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA4wBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:15:15.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Encryption.cs",
+              "RelativeDocumentMoniker": "MainLibrary\\Encryption.cs",
+              "ToolTip": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Encryption.cs",
+              "RelativeToolTip": "MainLibrary\\Encryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:11:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Key.cs",
+              "RelativeDocumentMoniker": "MainLibrary\\Key.cs",
+              "ToolTip": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Key.cs",
+              "RelativeToolTip": "MainLibrary\\Key.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:02:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stream_encryption.cs",
+              "DocumentMoniker": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Stream_encryption.cs",
+              "RelativeDocumentMoniker": "MainLibrary\\Stream_encryption.cs",
+              "ToolTip": "C:\\University\\TI\\lab2\\TI_lab2\\MainLibrary\\Stream_encryption.cs",
+              "RelativeToolTip": "MainLibrary\\Stream_encryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:45:43.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\University\\TI\\lab2\\TI_lab2\\TI_lab2\\MainForm.cs",
+              "RelativeDocumentMoniker": "TI_lab2\\MainForm.cs",
+              "ToolTip": "C:\\University\\TI\\lab2\\TI_lab2\\TI_lab2\\MainForm.cs*",
+              "RelativeToolTip": "TI_lab2\\MainForm.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:58:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\University\\TI\\lab2\\TI_lab2\\TI_lab2\\MainForm.cs",
+              "RelativeDocumentMoniker": "TI_lab2\\MainForm.cs",
+              "ToolTip": "C:\\University\\TI\\lab2\\TI_lab2\\TI_lab2\\MainForm.cs [Design]*",
+              "RelativeToolTip": "TI_lab2\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:32:45.862Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
