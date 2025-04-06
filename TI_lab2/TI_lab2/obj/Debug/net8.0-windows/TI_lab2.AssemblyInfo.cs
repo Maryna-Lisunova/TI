@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TI_lab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68eddf84f8267859b999dbca6aa42c6dcfa36495")]
 [assembly: System.Reflection.AssemblyProductAttribute("TI_lab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TI_lab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
