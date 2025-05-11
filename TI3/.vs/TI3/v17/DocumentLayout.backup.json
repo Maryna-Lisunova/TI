@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\University\\TI\\lab3\\TI3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF684B40-643C-44B5-B71C-C270BAF88517}|TI3\\TI3.csproj|C:\\University\\TI\\lab3\\TI3\\ti3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF684B40-643C-44B5-B71C-C270BAF88517}|TI3\\TI3.csproj|solutionrelative:ti3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCB6FCE-F3B5-4191-B69B-5BDC324C7F08}|LAlgoritms\\LAlgoritms.csproj|c:\\university\\ti\\lab3\\ti3\\lalgoritms\\rabin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCB6FCE-F3B5-4191-B69B-5BDC324C7F08}|LAlgoritms\\LAlgoritms.csproj|solutionrelative:lalgoritms\\rabin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF684B40-643C-44B5-B71C-C270BAF88517}|TI3\\TI3.csproj|c:\\university\\ti\\lab3\\ti3\\ti3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF684B40-643C-44B5-B71C-C270BAF88517}|TI3\\TI3.csproj|solutionrelative:ti3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rabin.cs",
+              "DocumentMoniker": "C:\\University\\TI\\lab3\\TI3\\LAlgoritms\\Rabin.cs",
+              "RelativeDocumentMoniker": "LAlgoritms\\Rabin.cs",
+              "ToolTip": "C:\\University\\TI\\lab3\\TI3\\LAlgoritms\\Rabin.cs",
+              "RelativeToolTip": "LAlgoritms\\Rabin.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:57:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\University\\TI\\lab3\\TI3\\TI3\\MainForm.cs",
+              "RelativeDocumentMoniker": "TI3\\MainForm.cs",
+              "ToolTip": "C:\\University\\TI\\lab3\\TI3\\TI3\\MainForm.cs [Design]",
+              "RelativeToolTip": "TI3\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:56:49.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\University\\TI\\lab3\\TI3\\TI3\\MainForm.cs",
+              "RelativeDocumentMoniker": "TI3\\MainForm.cs",
+              "ToolTip": "C:\\University\\TI\\lab3\\TI3\\TI3\\MainForm.cs",
+              "RelativeToolTip": "TI3\\MainForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:57:42.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

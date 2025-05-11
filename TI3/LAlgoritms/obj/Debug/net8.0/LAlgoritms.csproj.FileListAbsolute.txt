@@ -1,0 +1,11 @@
+C:\University\TI\lab3\TI3\LAlgoritms\bin\Debug\net8.0\LAlgoritms.deps.json
+C:\University\TI\lab3\TI3\LAlgoritms\bin\Debug\net8.0\LAlgoritms.dll
+C:\University\TI\lab3\TI3\LAlgoritms\bin\Debug\net8.0\LAlgoritms.pdb
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\LAlgoritms.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\LAlgoritms.AssemblyInfoInputs.cache
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\LAlgoritms.AssemblyInfo.cs
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\LAlgoritms.csproj.CoreCompileInputs.cache
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\LAlgoritms.dll
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\refint\LAlgoritms.dll
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\LAlgoritms.pdb
+C:\University\TI\lab3\TI3\LAlgoritms\obj\Debug\net8.0\ref\LAlgoritms.dll
